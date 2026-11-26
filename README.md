@@ -14,7 +14,7 @@ A comprehensive data visualization dashboard for analyzing Uber ride-sharing bus
 
 This interactive dashboard provides insights into various aspects of Uber's ride-sharing operations, including booking patterns, vehicle performance, revenue analysis, cancellation trends, and rating distributions.
 
-### Key Metrics Summary (2024)
+### Key Metrics Summary 
 - **Total Bookings**: 148.77K
 - **Success Rate**: 65.96% (93K completed rides)
 - **Cancellation Rate**: 25% (37.43K cancelled bookings)
@@ -144,6 +144,10 @@ The dashboard is built using the following data columns:
 - Driver satisfaction slightly lower than customer satisfaction
 - Seasonal variations in ride volume
 - Customer retention strategies for top spenders
+
+## Author
+**Avinash Pawar**
+Linkedin: https://www.linkedin.com/in/avinash-pawar-198657257/
 
 <!-- 
 <h2></h2>
