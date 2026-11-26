@@ -149,10 +149,9 @@ The dashboard is built using the following data columns:
 **Avinash Pawar**
 Linkedin: https://www.linkedin.com/in/avinash-pawar-198657257/
 
+If this project helped you, please consider giving it a ⭐️ star
 
 <div align="center">
   <h3><strong>Thank you for exploring this dashboard! 
 </strong></h3>
 </div>
-
-If this project helped you, please consider giving it a ⭐️ star
